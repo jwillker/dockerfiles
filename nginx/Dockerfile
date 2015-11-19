@@ -16,12 +16,6 @@ RUN apt-get -y install php5-gd php-apc php5-mcrypt php5-fpm
 # Nginx configuration
 ADD default /etc/nginx/sites-available/
 
-# PHP FastCGI script
-#ADD php-fcgi /usr/local/sbin/
-#RUN chmod o+x /usr/local/sbin/php-fcgi
-
-# Basic PHP website
-#ADD index.php /var/www/html/
 #Restart nginx
 RUN service nginx restart
 
