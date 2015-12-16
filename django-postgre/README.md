@@ -1,6 +1,6 @@
 ##How to use:
 
-- Add on project/settings.py :
+- Add in project/settings.py :
 ```py
 DATABASES = {
     'default': {
