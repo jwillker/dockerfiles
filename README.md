@@ -2,4 +2,4 @@
 
 **My dockerfiles**
 
-![Docker](http://blog.leandrogomes.com/content/images/2014/Sep/600_315149902.png)
+![Docker](https://newrelic.com/assets/partners/docker/vector_docker-whale.svg)
