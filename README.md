@@ -2,4 +2,4 @@
 
 **My dockerfiles**
 
-![Docker](https://newrelic.com/assets/partners/docker/vector_docker-whale.svg)
+![Docker](https://cdn.cloudlabs.com.br/wp-content/uploads/2017/07/whale-docker-logo.png)
